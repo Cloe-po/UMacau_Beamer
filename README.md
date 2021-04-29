@@ -22,3 +22,6 @@ Through my personal Github, I will record most of my practices in code learning 
 
 If you want to contact with me. My Email: ssslore315@gmail.com.
 
+### Newly Updated
+### University of Macau Beamer Theme
+I have upload the theme in the Github, you can feel free to download it and use it!
